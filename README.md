@@ -1,6 +1,9 @@
 # Ujian Tengah Semester Prodi S1 Sains Data Universitas Negeri Surabaya
+
 Nama: Nadia Zahra Yuvina
+
 Kelas: 2024 A
+
 Nim: 24031554192
 
 # RetailRocket Graph Analytics

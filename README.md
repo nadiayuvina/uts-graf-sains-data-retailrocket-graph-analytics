@@ -18,8 +18,12 @@ Tujuan dari pengerjaan proyek ini adalah:
 
 ## Dataset
 
-Dataset yang digunakan dalam proyek ini adalah RetailRocket Dataset. Dataset tersebut berisi riwayat interaksi pengguna dengan produk pada platform e-commerce. Untuk prosesnya saya membagi menjadi dua periode yaitu:
+Dataset yang digunakan dalam proyek ini adalah RetailRocket Dataset. Dataset tersebut berisi riwayat interaksi pengguna dengan produk pada platform e-commerce.
+unduh datasetnya sebagai berikut:
+curl-L-o ecommerce-dataset.zip\
+https://www.kaggle.com/api/v1/datasets/download/retailrocket/ecommerce-datase
 
+Lalu untuk proyek, saya membagi menjadi dua periode yaitu:
 | Periode | Tanggal | Kegunaan |
 |---|---|---|
 | Training (P1) | 1–20 Juni 2015 | Membentuk model rekomendasi |
